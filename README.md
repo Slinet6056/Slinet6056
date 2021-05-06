@@ -1,5 +1,6 @@
 # QwQ
-
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slinet6056&show_icons=true&hide=["commits","contribs"]) -->
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Slinet6056&layout=compact)
 <!--
 **ScarletFirebolt/ScarletFirebolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
