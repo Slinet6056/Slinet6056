@@ -35,6 +35,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://slinet.cn
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_days: 180
           plugin_wakatime_languages_other: yes
@@ -42,3 +43,4 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: Slinet6056
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
