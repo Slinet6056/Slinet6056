@@ -214,7 +214,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 78.2kb of code in 36 edited files across 34 commits over last 14 days</small>
+                <small>estimation from 77.4kb of code in 36 edited files across 34 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -232,8 +232,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>608 lines</div>
-                                <div>23.8 kB</div>
+                                <div>587 lines</div>
+                                <div>23 kB</div>
                             </small>
                         </div>
                     </section>
@@ -592,7 +592,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2022, 20:41:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 22:21:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
