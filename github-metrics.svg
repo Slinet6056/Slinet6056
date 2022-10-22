@@ -214,14 +214,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.77kb of code in 27 edited files across 26 commits over last 6 days</small>
+                <small>estimation from 8.71kb of code in 27 edited files across 26 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.50346420323325" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="434.50346420323325" y="0" width="25.496535796766747" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.3762057877814" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="433.3762057877814" y="0" width="26.623794212218648" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -233,8 +233,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>39 lines</div>
-                                <div>1.23 kB</div>
+                                <div>37 lines</div>
+                                <div>1.17 kB</div>
                             </small>
                         </div>
                     </section>
@@ -600,7 +600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2022, 22:27:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 23 Oct 2022, 00:40:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
