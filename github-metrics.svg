@@ -220,8 +220,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.0758861707439" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="384.0758861707439" y="0" width="75.92411382925611" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.79434756464224" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="383.79434756464224" y="0" width="76.20565243535779" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -233,8 +233,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>220 lines</div>
-                                <div>8.36 kB</div>
+                                <div>221 lines</div>
+                                <div>8.32 kB</div>
                             </small>
                         </div>
                     </section>
@@ -605,7 +605,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 20:57:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 22:29:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
