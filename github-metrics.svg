@@ -277,13 +277,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 49.792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">62%</span>
+                                <div class="bar" style="width: 55.032000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 30.208%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 24.968%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">31%</span>
                             </div>
                         </div>
                     </section>
@@ -292,13 +292,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">fish</span>
-                                <div class="bar" style="width: 49.792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">62%</span>
+                                <div class="bar" style="width: 55.032000000000004%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">VS Code</span>
-                                <div class="bar" style="width: 30.208%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 24.968%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">31%</span>
                             </div>
                         </div>
                     </section>
@@ -543,7 +543,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2023, 00:27:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Feb 2023, 02:25:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
