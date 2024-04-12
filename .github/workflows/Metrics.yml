@@ -49,7 +49,7 @@ jobs:
           commits_authoring: 缄默线, Slinet6056, Slinet6056@users.noreply.github.com
           plugin_languages_ignored: >-
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, Rich Text Format, Limbo
-          plugin_languages_sections: most-used
+          plugin_languages_sections: recently-used
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 60
